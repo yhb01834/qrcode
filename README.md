@@ -1,3 +1,3 @@
 # qrcode
-<img src="Screenshot from 2023-06-19 20-08-21.png"  width="700" height="370">
+<img src="스크린샷 2023-06-29 오전 9.44.58.png"  width="700" height="370">
 손가락으로 1을 가리키면 궤적 그리기를 시작하고 5를 펼치면 멈추게 됩니다.
